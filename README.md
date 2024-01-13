@@ -4,4 +4,4 @@ Numpy
 Matplotlib
 
 
-$\theta$
+$\theta_{1}$
