@@ -1,23 +1,51 @@
 # Manipulator-Frame-Visualisation-through-Forward-Kinematics-using-Python
 
+## Requirements
+
+Python
 Numpy
 Matplotlib
 
+## Home Pose
 
-$\theta_{1}$ = 0
-$\theta_{2}$ = 0
-$\theta_{3}$ = 0
-$\theta_{4}$ = 0
-$\theta_{5}$ = 0
-$\theta_{6}$ = 0
+$\theta_{1}$ = 0;
+$\theta_{2}$ = 0;
+$\theta_{3}$ = 0;
+$\theta_{4}$ = 0;
+$\theta_{5}$ = 0;
+$\theta_{6}$ = 0;
 
-image 1
+![Home Pose](assets/Home-Pose)
 
-$\theta_{1}$ = 0
-$\theta_{2}$ = 0
-$\theta_{3}$ = -90
-$\theta_{4}$ = 0
-$\theta_{5}$ = 0
-$\theta_{6}$ = 0
+## Pose A
 
-image 2
+$\theta_{1}$ = 0;
+$\theta_{2}$ = 0;
+$\theta_{3}$ = -90;
+$\theta_{4}$ = 0;
+$\theta_{5}$ = 0;
+$\theta_{6}$ = 0;
+
+![Pose A](assets/Pose-A)
+
+## Pose B
+
+$\theta_{1}$ = 0;
+$\theta_{2}$ = -90;
+$\theta_{3}$ = -90;
+$\theta_{4}$ = 0;
+$\theta_{5}$ = 0;
+$\theta_{6}$ = 0;
+
+![Pose B](assets/Pose-B)
+
+## Random Pose
+
+$\theta_{1}$ = 48;
+$\theta_{2}$ = -90;
+$\theta_{3}$ = -90;
+$\theta_{4}$ = 74;
+$\theta_{5}$ = 25;
+$\theta_{6}$ = 230;
+
+![Random Pose](assets/Random-Pose)
