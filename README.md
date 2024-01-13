@@ -6,9 +6,9 @@ Manipulator Based-upon a Kinova Gen-3 arm with 6-DoF.
 
 ## Requirements
 
-Python
-Numpy
-Matplotlib
+- Python
+- Numpy
+- Matplotlib
 
 ## Home Pose
 
