@@ -2,3 +2,6 @@
 
 Numpy
 Matplotlib
+
+
+$\theta$
