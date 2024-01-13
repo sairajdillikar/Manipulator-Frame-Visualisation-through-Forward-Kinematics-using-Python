@@ -15,7 +15,7 @@ $\theta_{4}$ = 0;
 $\theta_{5}$ = 0;
 $\theta_{6}$ = 0;
 
-![Home Pose](assets/Home-Pose.png)
+![Home Pose](assets/Home_Pose.png)
 
 ## Pose A
 
@@ -26,7 +26,7 @@ $\theta_{4}$ = 0;
 $\theta_{5}$ = 0;
 $\theta_{6}$ = 0;
 
-![Pose A](assets/Pose-A.png)
+![Pose A](assets/Pose_A.png)
 
 ## Pose B
 
@@ -37,7 +37,7 @@ $\theta_{4}$ = 0;
 $\theta_{5}$ = 0;
 $\theta_{6}$ = 0;
 
-![Pose B](assets/Pose-B.png)
+![Pose B](assets/Pose_B.png)
 
 ## Random Pose
 
@@ -48,4 +48,4 @@ $\theta_{4}$ = 74;
 $\theta_{5}$ = 25;
 $\theta_{6}$ = 230;
 
-![Random Pose](assets/Random-Pose.png)
+![Random Pose](assets/Random_Pose.png)
