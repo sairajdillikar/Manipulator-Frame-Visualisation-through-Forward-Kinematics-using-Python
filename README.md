@@ -1,8 +1,17 @@
-# Manipulator-Frame-Visualisation-through-Forward-Kinematics-using-Python
+# Manipulator Frame Visualisation through Forward Kinematics using Python
 
-Manipulator Based-upon a Kinova Gen-3 arm with 6-DoF.
+Visualisation of frames for a manipulator Based-upon a Kinova Gen-3 arm with 6-DoF.
 
 ![Kinova Gen3 Frames](assets/KinovaGen3Frames.png)
+
+## Table of Contents
+
+- [Requirements](#requirements)
+- [Code Output](#code-output)
+    - [Home Pose](#home-pose)
+    - [Pose A](#pose-a)
+    - [Pose B](#pose-b)
+    - [Random Pose](#random-pose)
 
 ## Requirements
 
@@ -10,7 +19,9 @@ Manipulator Based-upon a Kinova Gen-3 arm with 6-DoF.
 - Numpy
 - Matplotlib
 
-## Home Pose
+## Code Output
+
+### Home Pose
 
 $\theta_{1}$ = 0;
 $\theta_{2}$ = 0;
@@ -21,7 +32,7 @@ $\theta_{6}$ = 0;
 
 ![Home Pose](assets/Home_Pose.png)
 
-## Pose A
+### Pose A
 
 $\theta_{1}$ = 0;
 $\theta_{2}$ = 0;
@@ -32,7 +43,7 @@ $\theta_{6}$ = 0;
 
 ![Pose A](assets/Pose_A.png)
 
-## Pose B
+### Pose B
 
 $\theta_{1}$ = 0;
 $\theta_{2}$ = -90;
@@ -43,7 +54,7 @@ $\theta_{6}$ = 0;
 
 ![Pose B](assets/Pose_B.png)
 
-## Random Pose
+### Random Pose
 
 $\theta_{1}$ = 48;
 $\theta_{2}$ = -90;
