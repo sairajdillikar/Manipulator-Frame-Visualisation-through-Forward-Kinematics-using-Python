@@ -33,7 +33,7 @@ $\theta_{5}$ = 0;
 $\theta_{6}$ = 0;
 
 <p align="center">
-  <img src="assets/Home_Pose.png"/>
+  <img src="assets/Home_Pose.png" width="300"/>
 </p>
 
 ### Pose A
@@ -46,7 +46,7 @@ $\theta_{5}$ = 0;
 $\theta_{6}$ = 0;
 
 <p align="center">
-  <img src="assets/Pose_A.png"/>
+  <img src="assets/Pose_A.png" width="300"/>
 </p>
 
 ### Pose B
@@ -59,7 +59,7 @@ $\theta_{5}$ = 0;
 $\theta_{6}$ = 0;
 
 <p align="center">
-  <img src="assets/Pose_B.png"/>
+  <img src="assets/Pose_B.png" width="300"/>
 </p>
 
 ### Random Pose
@@ -72,5 +72,5 @@ $\theta_{5}$ = 25;
 $\theta_{6}$ = 230;
 
 <p align="center">
-  <img src="assets/Random_Pose.png"/>
+  <img src="assets/Random_Pose.png" width="300"/>
 </p>
