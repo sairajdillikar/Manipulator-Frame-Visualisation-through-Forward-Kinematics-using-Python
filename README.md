@@ -3,7 +3,7 @@
 Visualisation of frames for a manipulator Based-upon a Kinova Gen-3 arm with 6-DoF.
 
 <p align="center">
-  <img src="assets/KinovaGen3Frames.png"/>
+  <img src="assets/KinovaGen3Frames.png" width="300"/>
 </p>
 
 ## Table of Contents
